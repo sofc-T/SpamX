@@ -1,0 +1,2 @@
+Email Spam Classifier Deployment
+This repository contains the code and resources for deploying an Email Spam Classifier model into live production. The project demonstrates the deployment pipeline, including model integration, API development, and a web interface.
